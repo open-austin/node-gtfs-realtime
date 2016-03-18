@@ -1,0 +1,20 @@
+{
+  "name": "gtfs-rt-feed-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "es6-promise": "^3.1.2",
+    "protobuf-validator": "^1.0.0",
+    "protobufjs": "^5.0.1",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "expect": "^1.15.2",
+    "mocha": "^2.4.5"
+  }
+}
