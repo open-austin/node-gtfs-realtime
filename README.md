@@ -1,6 +1,6 @@
-node-gtfs-rt-feed
+# node-gtfs-realtime
 
-A node.js GTFS Realtime Feed Validator.
+Examples of using node.js to parse a GTFS-realtime feed.
 
 This is experimental/prototype code, so don't count on it for anything. :smiling_imp:
 
